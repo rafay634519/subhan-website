@@ -54,7 +54,6 @@ window.SITE = {
     { title: "Fashion Drop: Reels Ad", category: "Meta Ads", result: "41% lower cost per sale", video: "meta ads2.mp4", poster: "", ratio: "9/16" },
     { title: "AI Rodent Repellent Product Ad", category: "AI Videos", result: "Used across 5 platforms", video: "ai2.mp4", poster: "", ratio: "16/9" },
     { title: "tooltrix Ads Campaign", category: "Meta Ads", result: "1M views in 3days", video: "meta ads3.mp4", poster: "", ratio: "9/16" },
-    { title: "Agelyss Eye Bag Remover: AI Product Ad", category: "AI Videos", result: "3.1% CTR on Instagram", video: "ai3.mp4", poster: "", ratio: "9/16" },
     { title: "E-commerce hair curler Ads", category: "Meta Ads", result: "4.1x increase in sales in 20 days", video: "meta ads4.mp4", poster: "", ratio: "9/16" },
     { title: "Canvas Buy 1 Get 1 Free: AI Offer Ad", category: "AI Videos", result: "45% lower cost per purchase", video: "ai4.mp4", poster: "", ratio: "16/9" }
   ],
